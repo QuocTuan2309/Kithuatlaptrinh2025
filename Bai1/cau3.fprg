@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="cau3"/>
+        <attribute name="authors" value="Pham Quoc Tuan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-14 03:57:26 PM"/>
+        <attribute name="created" value="UGhhbSBRdW9jIFR1YW47TEFQVE9QLTVUSUU0OUxJOzIwMjUtMTAtMTQ7MDM6NTM6NTggUE07MzU5OQ=="/>
+        <attribute name="edited" value="UGhhbSBRdW9jIFR1YW47TEFQVE9QLTVUSUU0OUxJOzIwMjUtMTAtMTQ7MDM6NTc6MjYgUE07MTszNzA2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <output expression="&quot; Input the radius of the circle&quot;" newline="True"/>
+            <input variable="x"/>
+            <output expression="&quot; Area is &quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
